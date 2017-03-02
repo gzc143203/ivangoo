@@ -2,7 +2,7 @@
 Personal Pages
 2017.03.03
 ```java
-public void main(String[] args){
+public static void main(String[] args){
   System.out.println("hello, world!");
 }
 ```
